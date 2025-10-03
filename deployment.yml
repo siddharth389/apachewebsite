@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: apachewebsite
-        image: siddharth195/myimage
+        image: siddharth195/demo2
         ports:
         - containerPort: 80
